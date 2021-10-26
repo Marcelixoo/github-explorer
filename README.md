@@ -1,4 +1,4 @@
-# github-explorer
+# 🧐 github-explorer
 A quick overview of all my GitHub repositories at a Glance. This project was built as part of my studies on React, Typescript and Webpack.
 
 ## Available Scripts
